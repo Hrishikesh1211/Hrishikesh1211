@@ -1,122 +1,97 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Hrishikesh%20Rajaputra&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Hrishikesh%20Rajaputra&fontSize=38&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Hrishikesh</h1>
-
-<h3 align="center">
-Full-Stack Engineer • Cloud • Data • AI
-</h3>
+<h2 align="center">Full-Stack Engineer • Cloud • Data • AI</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hrishikeshrajaputra">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Hrishikesh1211">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="https://hrishikeshrajaputra.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-- 💻 I build **scalable full-stack applications**
-- ☁️ Focused on **cloud-native systems & data pipelines**
-- 📊 Passionate about **data-driven & AI-powered products**
-- ⚡ I enjoy turning ideas into **production-ready systems**
+I build scalable full-stack applications across backend systems, cloud infrastructure, and data-driven platforms. My focus is on performance, clean architecture, and building production-ready systems.
 
 ---
 
-## 🔥 Featured Project
+## Featured Work
 
-### 🌍 NASA EONET Interactive Dashboard
-> Real-time global environmental intelligence system
+### NASA EONET Interactive Dashboard
 
-- 🌐 Live NASA event tracking  
-- 🗺 Interactive map + analytics layer  
-- ⚡ Built with React + real-time data  
+A real-time environmental intelligence platform powered by NASA’s EONET API.
 
-👉 [Live Demo](https://nasa-eonet-dashboard.netlify.app/?days=30&status=all&categories=drought%2Cdustandhaze%2Cearthquakes%2Cfloods%2Clandslides%2Cmanmade%2Cseaandlakeice%2Cseverestorms%2Csnow%2Ctemperatureextremes%2Cvolcanoes%2Cwatercolor%2Cwildfires)  
-👉 [GitHub Repo](https://github.com/Hrishikesh1211/earth-insight-engine)
+- Global event tracking with live data  
+- Interactive map and analytics layer  
+- Designed for monitoring and insight generation  
 
----
-
-## 🧠 Tech Stack
-
-### 👨‍💻 Languages
-`Java` `Python` `JavaScript` `TypeScript` `SQL`
-
-### ⚛️ Frontend
-`React` `Next.js`
-
-### 🧩 Backend
-`Node.js` `Express`
-
-### ☁️ Cloud & DevOps
-`AWS` `Docker` `Kubernetes` `GitHub Actions`
-
-### 📊 Data & AI
-`PostgreSQL` `Power BI` `ETL Pipelines` `ARIMA` `Machine Learning`
+[Live Demo](https://nasa-eonet-dashboard.netlify.app/?days=30&status=all&categories=drought%2Cdustandhaze%2Cearthquakes%2Cfloods%2Clandslides%2Cmanmade%2Cseaandlakeice%2Cseverestorms%2Csnow%2Ctemperatureextremes%2Cvolcanoes%2Cwatercolor%2Cwildfires)  
+[GitHub Repository](https://github.com/Hrishikesh1211/earth-insight-engine)
 
 ---
 
-## 🛠 Projects
+## Technical Stack
 
-🚀 **StudyHub**  
-- Full-stack mobile app with real-time sync (React Native + Firebase)
+**Languages**  
+Java • Python • JavaScript • TypeScript • SQL  
 
-☁️ **AWS Data Pipeline**  
-- Cloud-native ETL system with CI/CD automation
+**Frontend**  
+React • Next.js  
 
-📈 **Stock Prediction Model**  
-- Time-series forecasting using ARIMA
+**Backend**  
+Node.js • Express  
 
-🏥 **Hospital Management System**  
-- Java + SQL system with optimized database design
+**Cloud & Infrastructure**  
+AWS • Docker • Kubernetes • GitHub Actions  
+
+**Data & Analytics**  
+PostgreSQL • Power BI • ETL Pipelines • Time Series (ARIMA) • Machine Learning  
 
 ---
 
-## 💼 Experience
+## Selected Projects
+
+**StudyHub**  
+Cross-platform full-stack application with real-time synchronization  
+
+**AWS Data Pipeline**  
+Cloud-native ETL system with automated workflows  
+
+**Stock Prediction Model**  
+Time-series forecasting system using ARIMA  
+
+**Hospital Management System**  
+Java-based system with structured database design  
+
+---
+
+## Experience
 
 **Data Analytics Intern — ChangingThePresent.org**  
-- Built Python + PostgreSQL pipelines  
-- Delivered Power BI dashboards  
+Built Python and PostgreSQL pipelines and delivered Power BI dashboards  
 
 **Backend Developer Intern — Nexus DevOps**  
-- Developed APIs and backend systems  
-- Improved performance and deployments  
+Developed backend services and improved system performance  
 
 ---
 
-## 📈 GitHub Stats
+## Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hrishikesh1211&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishikesh1211&theme=tokyonight&hide_border=true"/>
-</p>
+System design, AI-driven applications, and scalable cloud architectures  
 
 ---
 
-## 🌱 Currently Learning
+## Contact
 
-- 🧠 System Design  
-- 🤖 AI-powered applications  
-- ☁️ Scalable cloud architecture  
-
----
-
-## 🌐 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/hrishikeshrajaputra)  
-- 💻 [GitHub](https://github.com/Hrishikesh1211)  
-- 🌐 [Portfolio](https://hrishikeshrajaputra.netlify.app/)  
-
----
-
-## ⚡ Fun Fact
-
-> I enjoy building products that combine **engineering + data + real-world impact**
+[LinkedIn](https://www.linkedin.com/in/hrishikeshrajaputra)  
+[GitHub](https://github.com/Hrishikesh1211)  
+[Portfolio](https://hrishikeshrajaputra.netlify.app/)
