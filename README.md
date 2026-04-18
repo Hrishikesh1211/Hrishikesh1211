@@ -1,34 +1,31 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Hrishikesh%20Rajaputra&fontSize=38&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:020617&height=140&section=header&text=Hrishikesh%20Rajaputra&fontSize=36&fontColor=ffffff"/>
 </p>
 
-<h2 align="center">Full-Stack Engineer • Cloud • Data • AI</h2>
+<p align="center">
+Full-Stack Engineer · Cloud · Data · AI
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hrishikeshrajaputra">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Hrishikesh1211">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://hrishikeshrajaputra.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/hrishikeshrajaputra">LinkedIn</a> ·
+  <a href="https://github.com/Hrishikesh1211">GitHub</a> ·
+  <a href="https://hrishikeshrajaputra.netlify.app/">Portfolio</a>
 </p>
 
 ---
 
 ## About
 
-I build scalable full-stack applications across backend systems, cloud infrastructure, and data-driven platforms. My focus is on performance, clean architecture, and building production-ready systems.
+I build scalable applications across backend systems, cloud infrastructure, and data platforms.  
+My focus is on performance, clean architecture, and delivering production-ready systems.
 
 ---
 
-## Featured Work
+## Selected Work
 
 ### NASA EONET Interactive Dashboard
 
-A real-time environmental intelligence platform powered by NASA’s EONET API.
+A real-time environmental intelligence system powered by NASA’s EONET API.
 
 - Global event tracking with live data  
 - Interactive map and analytics layer  
@@ -39,59 +36,48 @@ A real-time environmental intelligence platform powered by NASA’s EONET API.
 
 ---
 
-## Technical Stack
+## Stack
 
 **Languages**  
-Java • Python • JavaScript • TypeScript • SQL  
+Java · Python · JavaScript · TypeScript · SQL  
 
 **Frontend**  
-React • Next.js  
+React · Next.js  
 
 **Backend**  
-Node.js • Express  
+Node.js · Express  
 
-**Cloud & Infrastructure**  
-AWS • Docker • Kubernetes • GitHub Actions  
+**Cloud**  
+AWS · Docker · Kubernetes · GitHub Actions  
 
-**Data & Analytics**  
-PostgreSQL • Power BI • ETL Pipelines • Time Series (ARIMA) • Machine Learning  
+**Data**  
+PostgreSQL · Power BI · ETL Pipelines · Time Series · Machine Learning  
 
 ---
 
-## Selected Projects
+## Projects
 
-**StudyHub**  
-Cross-platform full-stack application with real-time synchronization  
+StudyHub  
+Cross-platform application with real-time sync  
 
-**AWS Data Pipeline**  
-Cloud-native ETL system with automated workflows  
+AWS Data Pipeline  
+Cloud-native ETL system  
 
-**Stock Prediction Model**  
-Time-series forecasting system using ARIMA  
+Stock Prediction Model  
+Time-series forecasting with ARIMA  
 
-**Hospital Management System**  
+Hospital Management System  
 Java-based system with structured database design  
 
 ---
 
 ## Experience
 
-**Data Analytics Intern — ChangingThePresent.org**  
-Built Python and PostgreSQL pipelines and delivered Power BI dashboards  
-
-**Backend Developer Intern — Nexus DevOps**  
-Developed backend services and improved system performance  
+Data Analytics Intern — ChangingThePresent.org  
+Backend Developer Intern — Nexus DevOps  
 
 ---
 
 ## Current Focus
 
-System design, AI-driven applications, and scalable cloud architectures  
-
----
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/hrishikeshrajaputra)  
-[GitHub](https://github.com/Hrishikesh1211)  
-[Portfolio](https://hrishikeshrajaputra.netlify.app/)
+System design · AI-powered applications · scalable cloud architecture
