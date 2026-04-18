@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&center=true&vCenter=true&lines=Full-Stack+Engineer;Cloud+Systems;Data+Engineering;AI+Applications&size=18&pause=1500&speed=10000">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&center=true&vCenter=true&lines=Full-Stack+Engineer;Cloud+Systems;Data+Engineering;AI+Applications&size=18&pause=1500&speed=20000">
 </p>
 
 <p align="center">
